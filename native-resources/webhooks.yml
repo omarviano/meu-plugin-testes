@@ -1,9 +1,6 @@
-- id: ""
-  name: ""
-  resource: ""
-  resource_id: ""
-  url: ""
-  http_method: ""
-  headers:
-    - name: ""
-      value: ""
+- id: "wh-testes"
+  name: "Webhook de testes"
+  event: "SEND_AUTOMATION"
+  url: "https://webhook.site/44ce39a2-eda0-4bef-8d95-e96e61ae7f13"
+  http_method: "POST"
+  active: true
